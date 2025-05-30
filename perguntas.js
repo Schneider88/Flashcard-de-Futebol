@@ -15,3 +15,8 @@ criaCartao(
     'Quantos títulos de Brasileirão o Palmeiras tem?',
     'O Palmeiras tem 12 títulos de Brasileirão'
 )
+criaCartao(
+    'Futebol',
+    'Qual é o time com mais Copas Libertadores da América?',
+    'Independiente'
+)
