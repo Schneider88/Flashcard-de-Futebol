@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Futebol',
     'Que time tem mais títulos de Champions league?',
-    'Real Madrid CF'
+    'Real Madrid CF, da Espanha'
 )
 
 criaCartao(
@@ -19,5 +19,17 @@ criaCartao(
 criaCartao(
     'Futebol',
     'Qual é o time com mais Copas Libertadores da América?',
-    'Independiente'
+    'Independiente, da Argentina'
+)
+
+criaCartao(
+    'Futebol',
+    'Qual é o time que tem mais títulos da história?',
+    'Al Ahly, do Egito'
+)
+
+criaCartao(
+    'Futebol',
+    'Qual time Sulamericano tem mais títulos em sua história?',
+    'Club Nacional de Football, do Uruguai'
 )
